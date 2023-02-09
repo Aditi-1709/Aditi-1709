@@ -2,6 +2,7 @@
 # Hi, I'm Aditi Chauhan! 👋
 
 
+
 ## 🚀 About Me
 
 🧑‍💻 I'm a Front-end developer
@@ -22,7 +23,7 @@ and Communication.
 
 🔤 Languages: C, C++, Python 
 
-- ⚡ Fun fact: I love reading novels and writing poems📔
+⚡ Fun fact: I love reading novels and writing poems📔
 
 
 
