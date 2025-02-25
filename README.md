@@ -77,9 +77,9 @@ Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptabili
 ---
 
 ### 5. Version Control & Project Management  
-![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)   &nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   &nbsp;
-![Jira](https://img.shields.io/badge/Jira-%230A6ED1.svg?style=for-the-badge&logo=jira&logoColor=white)  
+[![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
+[![Jira](https://img.shields.io/badge/Jira-%230A6ED1.svg?style=for-the-badge&logo=jira&logoColor=white)]()
 
 
 
