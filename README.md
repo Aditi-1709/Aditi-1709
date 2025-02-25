@@ -41,7 +41,7 @@ and Communication.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+![Springboot](https://img.shields.io/badge/dynamic/json)
 
 
 <br/>
