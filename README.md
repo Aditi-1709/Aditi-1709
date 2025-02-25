@@ -1,33 +1,24 @@
 
-# Hi, I'm Aditi Chauhan! 👋
+# Hi there, I'm Aditi Chauhan! 👋
 
-<br/>
+# <br/>
 
 ## 🚀 About Me <img align="right" alt="GIF" width="220px" height="220px" src="https://user-images.githubusercontent.com/97278787/217737550-39ab3326-81a1-4de8-bbe8-36d08d92414b.gif" />
 
-🧑‍💻 I'm a Front-end developer
+🧑‍💻 Aspiring Data Engineer | Data Engineering Intern 
 
-📚 Currently learning Data Structures and Algorithms in C++ and basic concepts of Data Science
+📚 Currently learning Data Engineering tools and technologies
 
-⛳ Future Goals: I want to pursue Data Science and explore more new things ahead 
+⛳ Future Goals: Aspiring Data Engineer with a strong focus on learning big data, and mastering cloud-based technologies.
 
-👾 Interpersonal skills: Problem Solving, Creative thinking, Leadership, Adaptability, Quick Grasping
-and Communication. 
+👾 Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptability, Quick Learning, Communication, Collaboration, Time Management, Critical Thinking, Conflict Resolution, Team collaboration
 
 <br/>
 
 ## 🛠 Skills 
 <img align="right" alt="GIF" width="200px" height="180px" src="https://user-images.githubusercontent.com/97278787/217744255-55115a02-76e5-4eb5-b8cf-d424fe143584.gif" />
 
-👾 Front-end: Html5, CSS3, Bootstrap, Javascript 
 
-🎨 Design tools: Canva, Figma 
-
-🔤 Languages: C, C++, Python 
-
-⚡ Fun fact: I love reading novels and writing poems📔
-
-<br/>
 
 
 <h2>👨‍💻 Languages and Tools</h2>
