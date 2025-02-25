@@ -14,8 +14,7 @@ Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptabili
 
 ---
 
-
-
+<br/>
 
 <h2>👨‍💻 Languages and Tools</h2>
 
@@ -41,13 +40,12 @@ Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptabili
 
 ### 2. Data Engineering (Learning)  
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="GIF" width="80" height="80" align="left" />
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="GIF" width="80" height="80" align="left" />  -->
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<!-- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  -->
 ![PySpark](https://img.shields.io/badge/PySpark-%23E24A33.svg?style=for-the-badge&logo=apache-spark&logoColor=white)   &nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
-<br/>
 
 ---
 
@@ -89,12 +87,14 @@ Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptabili
 <!-- (![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)) -->
 <br/>
 
+[![@daredevil_03 Holopin board](https://holopin.me/daredevil_03)](https://holopin.io/@daredevil_03)
+
 ## 📫 How to reach me:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-chauhan-2b4b6b1a7)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/FirstAtom001?t=DdMGX4IH_TprMbUf-L3s2A&s=09)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditichauhan50@gmail.com)
-
+<!-- [holopin] : https://holopin.io/@daredevil_03 -->
 
 
 
