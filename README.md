@@ -6,7 +6,6 @@
 ## 🚀 About Me <img align="right" alt="GIF" width="220px" height="220px" src="https://user-images.githubusercontent.com/97278787/217737550-39ab3326-81a1-4de8-bbe8-36d08d92414b.gif" />
 
 🧑‍💻 Aspiring Data Engineer | Data Engineering Intern 
-
 📚 Currently learning Data Engineering tools and technologies
 
 ⛳ Future Goals: Aspiring Data Engineer with a strong focus on learning big data, and mastering cloud-based technologies.
@@ -15,11 +14,8 @@
 
 <br/>
 
-## 🛠 Skills 
+
 <img align="right" alt="GIF" width="200px" height="180px" src="https://user-images.githubusercontent.com/97278787/217744255-55115a02-76e5-4eb5-b8cf-d424fe143584.gif" />
-
-
-
 
 <h2>👨‍💻 Languages and Tools</h2>
 
