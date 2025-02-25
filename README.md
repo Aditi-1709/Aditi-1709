@@ -68,9 +68,9 @@ Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptabili
 <img src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif" alt="GIF" width="100" height="70" align="left" />
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white)   &nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)   &nbsp;
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white)]()
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)]()
+[![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)]()
 
 <br/>
 
