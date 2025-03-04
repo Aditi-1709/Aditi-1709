@@ -67,7 +67,7 @@ Interpersonal skills: Problem Solving, Creative Thinking, Leadership, Adaptabili
 <div>
 <img src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif" alt="GIF" width="130" height="90" align="right" />
 
-### 4. Backend Development  
+### 4. Backend Development (Learning) 
 
 
 ![Java](https://img.shields.io/badge/Java-%23F8981D.svg?style=for-the-badge&logo=java&logoColor=white)
